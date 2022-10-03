@@ -1,4 +1,4 @@
-# Lesson 1 - Shell tools and scripting
+# Lesson 2 - Shell tools and scripting
 
 [Class](https://missing.csail.mit.edu/2020/shell-tools/)
 

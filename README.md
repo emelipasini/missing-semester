@@ -19,3 +19,4 @@
 
 - I did not solve all the exercises
 - Some I didn't know how to solve, in others I did not have the command in windows and sometimes I like to change the exercises my way
+
